@@ -67,6 +67,7 @@ sudo nano /etc/hosts
 git init
 git add .
 git commit -m "Commit inicial con readme y pagina principal con formulario web"
+git push
 ```
 9. Añadir a Github
 ```
